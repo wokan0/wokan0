@@ -2,14 +2,11 @@
 
 ##### BIO
 
-#### I'm a recent physics graduate
-
-
-
+- 🏢 I'm a recent physics graduate
+- ⚙️ I use daily: `.py`, `.cpp`, `.html`
+- 🌱 Learning all about **Open Source**
 
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
-
-![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
 
 <!--
 **wokan0/wokan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
