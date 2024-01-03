@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Wojciech
+# Hi there! 👋 I'm Wojciech
 
 ## Summary
 
