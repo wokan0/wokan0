@@ -1,24 +1,6 @@
-### Hi there 👋
+# Hello World! 👋 I'm Wojciech
 
-##### BIO
+## Summary
 
-- 🏢 I'm a recent physics graduate
-- ⚙️ I use daily: `.py`, `.cpp`, `.html`
-- 🌱 Learning all about **Open Source**
-
-![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
-
-<!--
-**wokan0/wokan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a recent physics graduate from the University of Manchester
+🚀 Passionate and results-driven professional with a background in strategy, consulting, and data-driven decision-making.
