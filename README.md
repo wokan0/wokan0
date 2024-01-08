@@ -1,7 +1,9 @@
-# Hi there! 👋 I'm Wojciech
+# Hi there! 👋
 
-## Summary
+## 🚀 About Me
 
-🎓 I'm a recent physics graduate from the University of Manchester
+Hey there! 👋 I'm Wojciech Kania, a results-driven professional with a background in strategy consulting. I hold a Theoretical Physics degree from the University of Manchester. I am enthusiastic to unravel insights and tell compelling stories through data. 🔍
 
-🚀 Passionate and results-driven professional with a background in strategy, consulting, and data-driven decision-making.
+## Portfolio: (available on my Github and Kaggle pages)
+- House price prediction
+- A/B testing with Cookie Cats
