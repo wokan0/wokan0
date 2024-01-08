@@ -7,3 +7,4 @@ Hey there! 👋 I'm Wojciech Kania, a results-driven professional with a backgro
 ## Portfolio: (available on my Github and Kaggle pages)
 - House price prediction
 - A/B testing with Cookie Cats
+- SQLite library database
